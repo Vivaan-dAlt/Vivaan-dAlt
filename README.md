@@ -1,3 +1,4 @@
+# me
 - 👋 Hi, I’m Vivaan-d
 - 👀 I’m interested in Minecraft and web + game development and some simple AI's
 - 🌱 I’m currently learning AI development, Java, JavaScript, Three.js
